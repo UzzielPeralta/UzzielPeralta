@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Yo soy Uzziel Salathiel Peralta Garcia </h1>
 
-## About Me :
+## Sobre Mi :
 
 - 🎓 Actualmente estudiando una TSU en Desarrollo de Software Multiplataforma.
 - 🎓 Titulo en Tecnico En Programacion.
