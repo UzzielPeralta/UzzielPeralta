@@ -1,9 +1,7 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Yo soy Uzziel Salathiel Peralta Garcia</h1>
 
-## About Me :
+## Sobre mi :
 
 - 🏢 Soy egresado de la preparatoria Tecnica CECyTE, Emiliano Zapata, Morelos.
 - 🎓 Titulo en Tecnico En Programacion.
