@@ -4,7 +4,7 @@
 ## Sobre mi :
 
 - 🏢 Soy egresado de la preparatoria Tecnica CECyTE, Emiliano Zapata, Morelos.
-- 🎓 Titulo en Tecnico En Programacion.
+- 🎓 Titulo en Tecnico En Programacion, actualmente estudio una TSU en Desarrollo de Software Multiplataforma.
 - 🎓 Actualmente estudio en la universidad UTEZ.
 - 🏡'Vivo en Emiliano Zapata, Morelos, mexico.
 
